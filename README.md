@@ -1,2 +1,2 @@
 # employeedetails
-Just for learning propse
+Just for learning purpose
